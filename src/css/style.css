@@ -666,3 +666,19 @@ nav img:hover{
     margin-top: -42%;
     margin-left: -5%;
 }
+
+.depoimentos {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+.fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+}
