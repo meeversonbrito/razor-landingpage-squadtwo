@@ -88,7 +88,7 @@ nav img:hover{
     display: block;
 }
 
-.coloreffect{
+/*.coloreffect{
     margin-top: 9.1%;
     background: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0.8), rgba(0,0,0,0));
     width: 100%;
@@ -96,7 +96,7 @@ nav img:hover{
     position: absolute;
     object-fit: cover;
     z-index: 1;
-}
+}*/
 
 .promotexts{
     margin: -6% 0%;
