@@ -667,11 +667,28 @@ nav img:hover{
     margin-left: -5%;
 }
 
-.depoimentos {
+.container-dep {
     max-width: 1000px;
     position: relative;
     margin: auto;
+    margin-top: 200px;
+    padding-bottom: 2.5rem;
 }
+
+.container-dep img {
+    width: 400px;
+    float: right;
+}
+
+.container-dep h2 {
+    text-align: center;
+}
+
+.container-dep p {
+    position: relative;
+    padding-right: 50px;
+}
+
 
 .fade {
     animation-name: fade;
@@ -682,3 +699,14 @@ nav img:hover{
     from {opacity: .4}
     to {opacity: 1}
 }
+
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;  
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
